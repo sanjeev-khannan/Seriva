@@ -1,0 +1,233 @@
+00000
+flip a coin
+00000
+flipacoin
+00000
+flipcoin
+00000
+flip again
+00000
+flip coin
+00000
+coin flip
+00000
+do a coin flip
+00000
+can you flip a coin?
+00001
+shutdown now
+00002
+restart
+00002
+refresh you
+00003
+cancel shutdown
+00003
+dont off
+00003
+dont shut
+00003
+dont shutdown
+00004
+byebye
+00005
+shutdown
+00005
+kill
+00006
+what is the time
+00006
+what's the time
+00006
+time ena
+00006
+time please
+00006
+time pls
+00007
+i need a joke
+00007
+tell me a joke
+00007
+tell a joke
+00008
+open notepad
+00009
+what's the date
+00009
+tell me the date
+00009
+what is the date
+00009
+what is the date?
+00010
+change to aaraai mode
+00010
+aaraai
+00010
+aaraai mode
+00010
+enter aaraai mode
+00014
+copy file
+00014
+copy a file
+00014
+copy
+00013
+play xo
+00013
+xo game
+00013
+xo
+00006
+date
+00015
+hai
+00015
+hello
+00015
+hey
+00015
+hyyy
+00015
+haaii
+00015
+heyyy
+00015
+heeey
+00015
+hoi
+00015
+heyy
+00015
+hlo
+00015
+hi
+00015
+hii
+00015
+hoii
+00015
+haai
+00015
+hell00
+00000
+can u flip a coin
+00000
+can u flip a coin?
+00000
+do you know how to flip a coin?
+00000
+do you know how to flip a coin
+00000
+do u know how to flip a coin?
+00000
+do u know how to flip a coin
+00000
+flip a coin?
+00000
+coin flip?
+00000
+coinflip?
+00000
+flipacoin?
+00001
+shutdown immediately
+00001
+shutdownimmediately
+00001
+immediate shutdown
+00001
+immediateshutdown
+00001
+quick shutdown
+00001
+quickshutdown
+00001
+shut down immediately
+00001
+quick shut down
+00001
+immediate shut down
+00001
+force shutdown
+00001
+force shut down
+00003
+cancel the shutdown process
+00003
+cancel the shutdown process immedately
+00003
+exit shutdown process
+00003
+exit shutdown
+00002
+restart please
+00002
+restartplease
+00002
+pleaserestart
+00002
+please restart
+00002
+restart now
+00002
+restartnow
+00002
+restart immediately
+00002
+restartimmediately
+00016
+move a file
+00016
+move
+00016
+move file
+00016
+movefile
+00016
+file move
+00016
+pls move a file
+00017
+open a file
+00018
+calc
+00018
+calci
+00018
+calculator
+00018
+calculator mode
+00018
+calc mode
+00018
+calci mode
+00018
+math
+00018
+math mode
+00018
+add
+00006
+time kya?
+00006
+whats the time
+00006
+what's the time
+00006
+what's the time?
+00006
+time
+00009
+date
+00009
+date?
+00006
+time?
+00006
+time eshtu?
+00006
+time eshtu
+
